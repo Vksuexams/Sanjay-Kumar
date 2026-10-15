@@ -1,0 +1,6 @@
+{
+  "name": "Milk Hisab AI",
+  "description": "Native offline dairy ledger and milk billing calculator with daily entry, rate tracker, PDF bill generator, WhatsApp sharing, and data backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
